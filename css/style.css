@@ -15,7 +15,7 @@
 }
 
 body {
-    background-color: rgb(49, 211, 65);
+    background-color: rgb(11, 11, 11);
     color: white;
 }
 
@@ -90,7 +90,7 @@ body {
 }
 
 .spotifyPlaylists {
-    padding: 16px;
+    padding: 15px;
 }
 
 .spotifyPlaylists h1 {
